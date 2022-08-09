@@ -1,5 +1,5 @@
 <h1 align="center">Oi👋, Eu sou Andrei Santos</h1>
-<h3 align="center">Cientista de dados</h3>
+<h3 align="center">Estatístico | Cientista de dados</h3>
 
 - 💬 Me pergunte sobre **Excel, R, Python, MySQL, Modelagem Estatística, Coleta, Mineração e Análise de dados.**
 
