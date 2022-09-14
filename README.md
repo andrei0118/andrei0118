@@ -1,7 +1,7 @@
 <h1 align="center">Oi👋, Eu sou Andrei Santos</h1>
 <h3 align="center">Estatístico | Cientista de dados</h3>
 
-- 💬 Me pergunte sobre ** Mineração e Análise de dados, Modelagem Estatística,   Excel, R, Python, MySQL, Coleta. **
+- 💬 Me pergunte sobre ** Coleta, Mineração e Análise de dados, Modelagem Estatística, Análise de Regressão Simples e Mútipla, Elaboração de relatórios e Dashboards, Aprendizado de Máquina, Excel, R, Python, MySQL. **
 
 - 📫 Você me acha **andrei0118.santos@gmail.com**
 
