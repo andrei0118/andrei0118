@@ -37,7 +37,7 @@
   </a>
   <!-- Add your new image here -->
   <a href="IMAGE_URL" target="_blank" rel="noreferrer">
-    <img src="file:///C:/Users/Andrei%20Santos/Downloads/power-bi-microsoft-vector-logo-seeklogo.com/power-bi-microsoft-seeklogo.com.svg" alt="Image Description" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Image Description" width="40" height="40"/>
   </a>
   <!-- End of new image -->
 </p>
