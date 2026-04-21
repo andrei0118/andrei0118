@@ -1,16 +1,19 @@
 <h1 align="center">Oi👋, Eu sou Andrei Santos</h1>
 <h3 align="center">Estatístico | Cientista de dados</h3>
 
-- 💬 Me pergunte sobre ** Coleta, Mineração e Análise de dados, Modelagem Estatística, Análise de Regressão Simples e Mútipla, Elaboração de relatórios e Dashboards, Aprendizado de Máquina, Excel, R, Python, MySQL. **
+- 💬 Me pergunte sobre **Coleta, Mineração e Análise de dados, Modelagem Estatística, Análise de Regressão Simples e Mútipla, Elaboração de relatórios e Dashboards, Aprendizado de Máquina, Excel, R, Python, MySQL.**
 
 - 📫 Você me acha **andrei0118.santos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/andrei0118-santos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andrei0118-santos/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/andrei0118-santos/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div align="left">
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
@@ -35,11 +38,13 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
-  <!-- Add your new image here -->
-  <a href="IMAGE_URL" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Image Description" width="40" height="40"/>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   </a>
-  <!-- End of new image -->
-</p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrei0118&show_icons=true&locale=en" alt="andrei0118" /></p>
+<br />
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrei0118&show_icons=true&locale=en" alt="andrei0118" />
+</p>
